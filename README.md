@@ -20,3 +20,7 @@ npm install
 
 ```bash
 npm start
+
+# Data Source
+
+- https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
